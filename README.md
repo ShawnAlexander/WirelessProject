@@ -1,4 +1,4 @@
-CSCI 4800 Final Project - Shawn Johnson, Sasha Flaska, & Hieu Nguyen
+CSCI 4800 Final Project
 
 Requires: Python 2.7, Debian based linux distro, and gv (PostScript rendering) for packet analysis.
 Python Dependencies: scapy, PyQt4, sip
